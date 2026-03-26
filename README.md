@@ -67,7 +67,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=satkar400&show_icons=true&theme=tokyonight&layout=compact" height="170" style="margin-right:20px;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zenith40&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satkar400&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Top Languages" />
   
 </div><br>
 
