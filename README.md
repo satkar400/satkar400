@@ -61,20 +61,41 @@
 
 <!-- **GITHUB ANALYTICS** -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=header&text=Github%20Analytics&fontSize=15" width="100%"><br>
+<!-- Activity Graph -->
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=satkar400&show_icons=true&theme=tokyonight&layout=compact" height="170" style="margin-right:20px;"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satkar400&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Top Languages" />
-  
-</div><br>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=GitHub%20Analytics&fontSize=20" width="100%"/>
+
+<br><br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satkar400&theme=tokyonight" height="170"/>
-  
-</p><br>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=satkar400&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=ffcb6b" height="300"/>
+</p>
+
+<!-- Stats + Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satkar400&show_icons=true&theme=tokyonight" height="140"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satkar400&layout=compact&theme=tokyonight" height="300"/>
+</p>
+
+<br>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satkar400&theme=tokyonight" height="165"/>
+</p>
+
+<br>
+
+<!-- Profile Summary -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satkar400&theme=tokyonight"/>
+</p>
+
+<br>
+
+
 
 <!-- **Learning & Research Interests** -->
 
